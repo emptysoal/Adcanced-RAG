@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-- **多种 `RAG` 方案的实现：**基于 `workflow` 和  `Agent` 
+- **多种 `RAG` 方案的实现：** 基于 `workflow` 和  `Agent` 
 
 ## 技术选型
 
@@ -14,4 +14,5 @@
 | **Milvus**     | 向量数据库 | 高性能、支持混合检索、水平扩展               |
 | **vLLM**       | 模型推理   | 高吞吐、低延迟的 LLM/Embedding/Reranker 服务 |
 | **Pydantic**   | 结构化输出 | 类型安全，LLM 输出可靠解析                   |
+
 
